@@ -1,0 +1,63 @@
+==================================================================
+https://keybase.io/sksat
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://yohane.su
+  * I am sksat (https://keybase.io/sksat) on keybase.
+  * I have a public key with fingerprint A5F9 5E92 A7EF B190 A818  9609 A450 0EC5 DD16 4E44
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012039bd0f5618bd53d69c65b065d7ac1b004251c552f820fd59a0eaf930a937e0430a",
+      "fingerprint": "a5f95e92a7efb190a8189609a4500ec5dd164e44",
+      "host": "keybase.io",
+      "key_id": "a4500ec5dd164e44",
+      "kid": "0116e6c360e4141b182f63cd5df458dd29da3ac0f348ba45061c4cbf37a076bd78170a",
+      "uid": "02e4b8e8efd77e426c394a43e1126d19",
+      "username": "sksat"
+    },
+    "service": {
+      "hostname": "yohane.su",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1584543760,
+  "expire_in": 157680000,
+  "prev": "a8cb0fc1069b24d66071421cc3dacaeb281686c018b58ab452278f4c3aacdab0",
+  "seqno": 57,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owFtUj1rFUEU3WgkMSCxCog8TKYRIYSZ2fl8ClZisFFQBCH4mI87yfLi7rq778UQ
+AgEbESUiYiXaWWkTREghGFLaWPkHbBQRtDfgbEw6p5mZM+ecOffOPDlxNBmfujW2
+vXF24XcY+fTdJrcrNb2GbOFXUXcN9WF/gmUPddPrZx51ESYUp9p6HLggynqeeqGd
+4BYL7qVxxGLMKCeOcxoUxcFzbTCYoFNsdCoBs7hAsyhk+SJUZZXlTbQ1PGgOmhoJ
+wRKNjSJKC6wN4xiD494TwYCxKFwq6lYRw1lTw1xWRCxuevvx/sM/zE0ECJcKDIww
+YomiQaTOcx8YV95T7U1qHA4pU7Z1EcQxZ0MqDZbCeqmI3M89+GdHgVkFCoKXEhiN
+zpoZlgIhVHiiW2INVW7uQGTX/do0aH0WRWiYOWi72pZxcLxaLJkc5upBVJVV0RSu
+WI7wUtOUdbeVNatly1sB2ztw6Nks97GDUTGEqs6KHHVJZLomay0JV4yzVAo8i+Be
+mVXQy1oGl0LhONp7YNj2SzmLgyNYaEuvMy8EloRR4lzqjTNgqSJCCYfjW3NlLOOU
+ShWYS41x3liM2qLu5gXqchmDmsW23GwxN82gArQ+8WAwmkyNJ52pmdHJ+S8zf16O
+T19Idh8f/rpjR9ovl0wcP3mIPOyMJO+2Ny+9Obe397acLIfzvx5tbV78sTvxs+58
+fnXtfjH/YiTZef915+qpj6c/nHm6cuXb9s3Lr89vjRK/sPHsxrrpPx/7Cw==
+=7VKp
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sksat
+
+==================================================================
+
